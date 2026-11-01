@@ -1,0 +1,7 @@
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\obj\Debug\OOPFirstProject.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\obj\Debug\OOPFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\bin\Debug\OOPFirstProject.exe.config
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\bin\Debug\OOPFirstProject.exe
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\bin\Debug\OOPFirstProject.pdb
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\obj\Debug\OOPFirstProject.exe
+C:\Users\My PC\source\repos\OOPFirstProject\OOPFirstProject\obj\Debug\OOPFirstProject.pdb

@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\user\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\user\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|c:\\users\\my pc\\source\\repos\\oopfirstproject\\oopfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\bookings\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\bookings\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\admin\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\admin\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\bookings\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\bookings\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\photography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\photography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\bookings\\bookingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\bookings\\bookingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\oopfirstproject\\bookings\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E5097-AD0F-4BFF-9478-112B91A622D1}|OOPFirstProject\\OOPFirstProject.csproj|solutionrelative:oopfirstproject\\bookings\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserModel.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\user\\UserModel.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserModel.cs",
+              "RelativeToolTip": "OOPFirstProject\\user\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:45:32.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminUI.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\admin\\AdminUI.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminUI.cs",
+              "RelativeToolTip": "OOPFirstProject\\admin\\AdminUI.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:40:13.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingModel.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\bookings\\BookingModel.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingModel.cs",
+              "RelativeToolTip": "OOPFirstProject\\bookings\\BookingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:24:10.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserRepo.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\user\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserRepo.cs",
+              "RelativeToolTip": "OOPFirstProject\\user\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:45:15.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserService.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\user\\UserService.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserService.cs",
+              "RelativeToolTip": "OOPFirstProject\\user\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:45:53.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserUI.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\user\\UserUI.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\user\\UserUI.cs",
+              "RelativeToolTip": "OOPFirstProject\\user\\UserUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:44:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\Program.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\Program.cs",
+              "RelativeToolTip": "OOPFirstProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:10:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminService.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\admin\\AdminService.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminService.cs",
+              "RelativeToolTip": "OOPFirstProject\\admin\\AdminService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:39:59.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\admin\\AdminRepo.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminRepo.cs",
+              "RelativeToolTip": "OOPFirstProject\\admin\\AdminRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:39:26.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\bookings\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingRepo.cs",
+              "RelativeToolTip": "OOPFirstProject\\bookings\\BookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:23:29.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminModel.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\admin\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\admin\\AdminModel.cs",
+              "RelativeToolTip": "OOPFirstProject\\admin\\AdminModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T07:37:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "photography.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\photography.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\photography.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\photography.cs",
+              "RelativeToolTip": "OOPFirstProject\\photography.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:12:05.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingService.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\bookings\\BookingService.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingService.cs",
+              "RelativeToolTip": "OOPFirstProject\\bookings\\BookingService.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAmwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:23:08.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingUI.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingUI.cs",
+              "RelativeDocumentMoniker": "OOPFirstProject\\bookings\\BookingUI.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\OOPFirstProject\\OOPFirstProject\\bookings\\BookingUI.cs",
+              "RelativeToolTip": "OOPFirstProject\\bookings\\BookingUI.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAmwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:22:36.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
