@@ -14,6 +14,8 @@ namespace OOPFirstProject.bookings
         private string packages;
         private int hours;
         private int bill;
+     
+
         public BookingModel(string name, string shoottypye, string packages, int hours, int bill)
         {
             this.name = name;
@@ -21,6 +23,7 @@ namespace OOPFirstProject.bookings
             this.packages = packages;
             this.hours = hours;
             this.bill = bill;
+
         }
 
         public string SetName(string name)

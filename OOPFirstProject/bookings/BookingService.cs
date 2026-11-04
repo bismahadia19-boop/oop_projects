@@ -20,7 +20,7 @@ namespace OOPFirstProject.bookings
         {
             _repo.SaveInFile(booking);
         }
-
+        
         public BookingModel SearchByName(string name)
         {
             foreach (BookingModel booking in _repo.GetAllBookings())
@@ -196,6 +196,33 @@ namespace OOPFirstProject.bookings
             }
 
             return highest;
+        }
+        public void pages(int count,char ch,char ch1,char ch2,char ch3)
+        {
+            Console.WriteLine("succesfully done");
+           
+
+        }
+        public void pagesize(int count)
+        {
+            List<BookingModel> bookings = _repo.GetAllBookings();
+            if(bookings.Count>3)
+            {
+                Console.WriteLine("open the next page ");
+            }
+        }
+        public void quickFilter()
+        {
+                            List<BookingModel> bookings = _repo.GetAllBookings();
+            foreach (BookingModel booking in bookings)
+            {
+                if (booking.GetPackages() == "Elite" && booking.GetHours() > 3)
+                {
+                    Console.WriteLine("packages "+ booking.GetPackages()+"hours"+booking.GetHours());
+                }
+               
+            }
+
         }
     }
 }

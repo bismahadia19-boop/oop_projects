@@ -1,3 +1,4 @@
 hassan,Wedding,Elite,9,12183
 sana,Event,Premium,9,6300
 merub,Wedding,Elite,10,14250
+uswa,Wedding,Elite,9,12825

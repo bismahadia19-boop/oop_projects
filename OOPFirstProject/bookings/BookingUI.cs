@@ -54,6 +54,10 @@ namespace OOPFirstProject.bookings
                 {
                     ShowLowestPayingClient();
                 }
+                else if(option=="10")
+                    {
+                    
+                }
                 else if (option == "10")
                 {
                     break;
@@ -215,7 +219,24 @@ namespace OOPFirstProject.bookings
 
             return booking;
         }
-
+        public void page(int page)
+        {
+            Console.WriteLine("How many records to show on a page ");
+            int pages = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter F to show next page");
+            char ch = char.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter N to show next page");
+            char ch1 = char.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter p to show previous page ");
+            char ch2= char.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter L to show the last page ");
+            char ch3 = char.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter X to show the exit ");
+            char ch4 = char.Parse(Console.ReadLine());
+        }
+        public void quickfilter()
+        {
+        }
         public string BookingMenu()
         {
             Console.WriteLine();
@@ -229,7 +250,7 @@ namespace OOPFirstProject.bookings
             Console.WriteLine("7. Total revenue");
             Console.WriteLine("8. Highest paying client");
             Console.WriteLine("9. Lowest paying client");
-
+            Console.WriteLine("10. panginated layer ");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("10. Back");
             Console.ForegroundColor = ConsoleColor.White;

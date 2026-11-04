@@ -26,7 +26,6 @@ namespace OOPFirstProject.user
             _repo.SaveFeedback(user);
         }
 
-        // Return: -1 = record nahi mila, 0 = discount nahi mila, warna naya bill
         public bool ApplyDiscount(string name)
         {
             List<BookingModel> bookings = _bookingRepo.GetAllBookings();

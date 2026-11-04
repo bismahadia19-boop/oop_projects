@@ -15,7 +15,7 @@ namespace OOPFirstProject.bookings
 
         public void SaveInFile(BookingModel booking)
         {
-            Console.WriteLine(Path.GetFullPath(file));
+
 
             using (StreamWriter stream = new StreamWriter(file, true))
             {
